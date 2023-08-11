@@ -5,3 +5,4 @@ A collection of bite-sized cyber security related projects for hands-on practice
 ## Contents
 
 1. [Ransomeware](https://github.com/Arobce/cybersecurity-practice/tree/main/ransomeware)
+2. [Keylogger](https://github.com/Arobce/cybersecurity-practice/tree/main/keylogger)
